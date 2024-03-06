@@ -1,3 +1,5 @@
+package interview.questions;
+
 public class ArrayUtils {
 
     public static int findFirstOccurrence(int [] nums , int low, int high, int key){
